@@ -1,0 +1,19 @@
+.navbar-collapse {
+  justify-content: flex-end;
+}
+.btn-primary {
+  justify-content: flex-start;
+}
+
+
+
+.transparent {
+  background-color: transparent;
+}
+.text-about {
+  font-size: small;
+}
+
+span {
+  color: lightslategray;
+}
